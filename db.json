@@ -1,0 +1,82 @@
+{
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": [{
+            "name": "Test",
+            "password": "mobeye",
+            "emailaddress": "mobeye@test.nl",
+            "Authlevel": 1,
+            "Authcode": "72940",
+            "Accescode": "48911",
+            "Phonenumber": "069876543"
+        },
+        {
+            "name": "Mobeye",
+            "password": "test",
+            "emailaddress": "test@mobeye.nl",
+            "Authlevel": 2,
+            "Accescode": "57311",
+            "Authcode": "87415"
+        },
+        {
+            "name": "Mobeye",
+            "password": "test",
+            "emailaddress": "test2@mobeye.nl",
+            "Authlevel": 3,
+            "Accescode": "57321",
+            "Authcode": "87416"
+        }
+    ],
+    "verification": [{
+        "id": 3,
+        "code": "7451",
+        "userid": 2,
+        "username": "Mobeye",
+        "password": "test",
+        "phonenumber": "06142536"
+    }],
+    "products": [{
+            "id": 1,
+            "name": "CM2000",
+            "location": "Frankfurt",
+            "Status": "On",
+            "Communication": "On"
+        },
+        {
+            "id": 2,
+            "name": "Mobeye Argos",
+            "location": "garage box",
+            "Status": "Off",
+            "Communication": "On"
+        },
+        {
+            "id": 3,
+            "name": "Mobeye Call-Key",
+            "location": "Mobeye Office",
+            "Status": "Off",
+            "Communication": "On"
+        },
+        {
+            "id": 4,
+            "name": "Mobeye CM2100 PowerGuard",
+            "location": "Mobeye Office",
+            "Status": "On",
+            "Communication": "Off"
+        },
+        {
+            "id": 5,
+            "name": "Mobeye CM2200 ThermoGuard",
+            "location": "Mobeye Office",
+            "Status": "On",
+            "Communication": "On"
+        }
+    ]
+}
