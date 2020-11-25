@@ -13,7 +13,7 @@
             "SmsKey": "72940",
             "PrivateKey": "4891",
             "Name": "Test",
-            "Imei": "",
+            "Imei": "000000000000000",
             "Phonenumber": "069876543",
             "ExternalDevices": [],
             "PermissionLevel": "1"
