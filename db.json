@@ -22,7 +22,7 @@
             "SmsKey": "87415",
             "PrivateKey": "5731",
             "Name": "Mobeye",
-            "Imei": "",
+            "Imei": "000000000000000",
             "Phonenumber": "",
             "ExternalDevices": [],
             "PermissionLevel": "2"
@@ -31,7 +31,7 @@
             "SmsKey": "87416",
             "PrivateKey": "5732",
             "Name": "Mobeye",
-            "Imei": "",
+            "Imei": "000000000000000",
             "Phonenumber": "",
             "ExternalDevices": [],
             "PermissionLevel": "3"
