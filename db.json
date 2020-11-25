@@ -16,7 +16,7 @@
             "Imei": "000000000000000",
             "Phonenumber": "069876543",
             "ExternalDevices": [],
-            "PermissionLevel": 1
+            "PermissionLevel": "1"
         },
         {
             "SmsKey": "87415",
@@ -25,7 +25,7 @@
             "Imei": "",
             "Phonenumber": "",
             "ExternalDevices": [],
-            "PermissionLevel": 2
+            "PermissionLevel": "2"
         },
         {
             "SmsKey": "87416",
@@ -34,7 +34,7 @@
             "Imei": "",
             "Phonenumber": "",
             "ExternalDevices": [],
-            "PermissionLevel": 3
+            "PermissionLevel": "3"
         }
     ],
     "auth": [{
