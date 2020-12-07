@@ -12,7 +12,7 @@
     "users": [{
             "SmsKey": "72940",
             "PrivateKey": "4891",
-            "Name": "Test",
+            "Name": "PortalOwner",
             "Imei": "000000000000000",
             "Phonenumber": "069876543",
             "ExternalDevices": [],
@@ -21,7 +21,7 @@
         {
             "SmsKey": "87415",
             "PrivateKey": "5731",
-            "Name": "Mobeye",
+            "Name": "ContactPerson",
             "Imei": "000000000000000",
             "Phonenumber": "",
             "ExternalDevices": [],
@@ -30,10 +30,19 @@
         {
             "SmsKey": "87416",
             "PrivateKey": "5732",
-            "Name": "Mobeye",
+            "Name": "CallkeyUser",
             "Imei": "000000000000000",
             "Phonenumber": "",
-            "ExternalDevices": [],
+            "ExternalDevices": [{
+                    "id": 1
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 5
+                }
+            ],
             "PermissionLevel": "3"
         }
     ],
